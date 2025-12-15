@@ -1,0 +1,127 @@
+Here’s a video from the course **Building Web Applications in Django** by **Charles Severance** from the **University of Michigan**. You can explore the full course anytime on Coursera for deeper learning.
+
+---
+
+### ✅ Your Request: **“Give the Hibernate topics”**
+
+Below is a **clear and complete list of Hibernate topics**, summarized in a clean syllabus style without over-explanation:
+
+---
+
+# 📘 **Hibernate Topics (Full Syllabus)**
+
+### **1. Introduction to ORM & Hibernate**
+
+* What is ORM?
+* Hibernate vs JDBC
+* Hibernate vs JPA
+* Architecture & working
+
+### **2. Hibernate Setup**
+
+* persistence.xml
+* hibernate.cfg.xml
+* Dialects
+* DataSource settings
+
+### **3. Entity Mapping**
+
+* @Entity
+* @Id
+* @GeneratedValue
+* @Column
+* @Transient
+* @Table
+
+### **4. CRUD Operations**
+
+Using:
+
+* EntityManagerFactory
+* EntityManager
+* EntityTransaction
+
+Methods:
+
+* persist()
+* find()
+* merge()
+* remove()
+
+### **5. Hibernate Query Languages**
+
+* HQL (Hibernate Query Language)
+* JPQL (JPA Query Language)
+* Native SQL queries
+* Pagination
+
+### **6. Relationships**
+
+* @OneToOne
+* @OneToMany
+* @ManyToOne
+* @ManyToMany
+* mappedBy
+* @JoinColumn
+* @JoinTable
+
+### **7. Fetching Strategies**
+
+* LAZY
+* EAGER
+
+### **8. Cascading**
+
+* CascadeType.ALL
+* PERSIST, MERGE, REMOVE
+
+### **9. Object States**
+
+* Transient
+* Persistent
+* Detached
+
+### **10. Hibernate Caching**
+
+* Level-1 Cache
+* Level-2 Cache
+* Query Cache
+
+### **11. Validation**
+
+* @NotNull
+* @Email
+* @Size
+
+### **12. Performance & Optimization**
+
+* Batch processing
+* N+1 select problem
+* Fetch joins
+
+### **13. Inheritance Mapping**
+
+* SINGLE_TABLE
+* JOINED
+* TABLE_PER_CLASS
+
+### **14. Hibernate with Spring Boot**
+
+* Spring Data JPA
+* JpaRepository
+* CRUD operations
+* Derived queries
+
+---
+
+If you want, I can now:
+
+### ✔ Explain each topic with examples
+
+### ✔ Create a one-page PDF of Hibernate topics
+
+### ✔ Provide real interview questions
+
+### ✔ Give diagrams (your preferred style)
+
+Which one would you like?
